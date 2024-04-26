@@ -1,1 +1,1 @@
-# Artificial-Intelligence_Designing-an-Automatic-Watering-System-using-Fuzzy-Logic
+# Artificial Intelligence - Designing an Automatic Watering System using Fuzzy Logic
